@@ -1,0 +1,64 @@
+# robots.txt for Osai - K7 Academy | Perfect Puppy Course v3
+# AI Crawler Access - Maximum AI Search Visibility (100/100 Technical GEO)
+
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Disallow: /wp-admin/
+Disallow: /includes/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /tmp/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /tmp/
+
+# Top AI & Generative Search Crawlers - Full Access
+User-agent: GPTBot
+Allow: /
+Crawl-Delay: 1
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-Delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-Delay: 1
+
+User-agent: ClaudeBot
+Allow: /
+Crawl-Delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-Delay: 1
+
+User-agent: Google-Extended
+Allow: /
+Crawl-Delay: 1
+
+User-agent: GoogleOther
+Allow: /
+Crawl-Delay: 1
+
+User-agent: Applebot-Extended
+Allow: /
+Crawl-Delay: 1
+
+User-agent: Amazonbot
+Allow: /
+Crawl-Delay: 1
+
+User-agent: FacebookBot
+Allow: /
+Crawl-Delay: 1
+
+# Block Aggressive Scrapers
+User-agent: Bytespider
+Disallow: /
+
+# Sitemap & LLM Knowledge Base
+Sitemap: https://k7academy5-dog.github.io/Behavior./sitemap.xml
