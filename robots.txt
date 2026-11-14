@@ -61,4 +61,4 @@ User-agent: Bytespider
 Disallow: /
 
 # Sitemap & LLM Knowledge Base
-Sitemap: https://k7academy5-dog.github.io/Behavior./sitemap.xml
+Sitemap: https://k7academy5-dog.github.io/Behavior/sitemap.xml
